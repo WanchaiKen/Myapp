@@ -1,4 +1,4 @@
 package Myapp;
 
-public class Z {
+public class Z extends X{
 }
